@@ -12,3 +12,5 @@ IQON — Sistem ve Klavye Kontrol Merkezi<br>
 • Klavye RGB Aydınlatma: Uyumlu Monster / Clevo (Insyde DCHU) klavyeler için renk, parlaklık ve efekt kontrolü sunar.<br>
 • Oyun Kütüphanesi & Araçlar: Yüklü oyunları ve oynama sürelerini takip eder, NVIDIA/Intel/Windows Update sürücü durumlarını denetler ve yüzer Mini Oynatıcı desteği içerir.<br>
 • Hafif & Yerel: Düşük sistem tüketimiyle çalışır; tüm ayarlar ve kayıtlar yalnızca kendi bilgisayarında saklanır.<br>
+
+Sadece klavye ışığı fonksiyonu clevo-monster bilgisayarlar için çalışmaktadır diğer fonksiyonlar standart tüm bilgisayarlarda kullanılabilir. Hata bildirimlerinizi, yorum ve tavsiyelerinizi bekliyorum.
