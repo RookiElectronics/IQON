@@ -13,4 +13,7 @@ IQON — Sistem ve Klavye Kontrol Merkezi<br>
 • Oyun Kütüphanesi & Araçlar: Yüklü oyunları ve oynama sürelerini takip eder, NVIDIA/Intel/Windows Update sürücü durumlarını denetler ve yüzer Mini Oynatıcı desteği içerir.<br>
 • Hafif & Yerel: Düşük sistem tüketimiyle çalışır; tüm ayarlar ve kayıtlar yalnızca kendi bilgisayarında saklanır.<br>
 
-Sadece klavye ışığı fonksiyonu clevo-monster bilgisayarlar için çalışmaktadır diğer fonksiyonlar standart tüm bilgisayarlarda kullanılabilir. Hata bildirimlerinizi, yorum ve tavsiyelerinizi bekliyorum.
+Sadece klavye ışığı fonksiyonu clevo-monster bilgisayarlar için çalışmaktadır diğer fonksiyonlar standart tüm bilgisayarlarda kullanılabilir.<br>
+Hata bildirimlerinizi, yorum ve tavsiyelerinizi bekliyorum.<br>
+-Windows açılırken uygulama otomatik açılmaz ise ayarlardan bir kere windows ile başlat seçeneğini aç kapa yapmanız yeterli olur.
+
